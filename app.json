@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "BLOOM",
+    "slug": "bloom-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {"package": "com.bloom.personalcompanion", "permissions": ["POST_NOTIFICATIONS"]},
+    "plugins": [["expo-notifications", {"defaultChannel": "gentle-reminders"}]]
+  }
+}
